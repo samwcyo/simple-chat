@@ -1,2 +1,2 @@
 # Simple Chat
-This is a VERY simple client/server model for chat.
+This is an example package for Ryan... nothing more.
